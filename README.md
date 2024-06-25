@@ -55,8 +55,9 @@ python -m pip install -r requirements.txt
 ## 예시 결과
 - 오차범위 0.1%p : 93.5%
 - 오차범위 0.01%p: 13.5%
+<br>
 ![결과](https://github.com/mung3477/aiku-24-1-should-i-buy/assets/18616006/2dcc9133-b4e0-464a-ad85-59f765c0d1ff)
-)
+
 
 ## 팀원
 
